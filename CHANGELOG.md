@@ -1,3 +1,8 @@
+### 1.0.0
+
+ * Cordova ID edited
+ * package.json added
+
 ### 0.1.7
 
 * Add getPackageName feature (thanks to @gprasanth)
